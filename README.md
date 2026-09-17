@@ -1,4 +1,4 @@
-# Fridge Master (냉장고를 부탁해)
+# Fridge Master (냉장고를 부탁해) - DBP 프로젝트
 
 **Fridge Master**는 냉장고 속 식재료의 유통기한을 관리하고, 효율적인 식재료 소비를 돕는 React Native (Expo) 기반의 모바일 애플리케이션입니다.
 
